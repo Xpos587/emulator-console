@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="emulator-console:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/emulator_console_jar</output-path>
+    <root id="archive" name="emulator-console.jar">
+      <element id="module-output" name="emulator-console" />
+    </root>
+  </artifact>
+</component>
